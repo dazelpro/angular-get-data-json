@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Marriot Cafe JW",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "address": "Medan",
+        "image": "https://via.placeholder.com/350x150?text=www.dazelpro.com"
+    },
+    {
+        "id": 2,
+        "name": "Tugu Kunstkring Paleis",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "address": "Jakarta",
+        "image": "https://via.placeholder.com/350x150?text=www.dazelpro.com"
+    },
+    {
+        "id": 3,
+        "name": "Apéritif",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "address": "Bali",
+        "image": "https://via.placeholder.com/350x150?text=www.dazelpro.com"
+    },
+    {
+        "id": 4,
+        "name": "Gravity Sky Lounge",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "address": "Makassar",
+        "image": "https://via.placeholder.com/350x150?text=www.dazelpro.com"
+    },
+    {
+        "id": 5,
+        "name": "Dapur Kole-kole",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "address": "Ambon",
+        "image": "https://via.placeholder.com/350x150?text=www.dazelpro.com"
+    },
+    {
+        "id": 6,
+        "name": "Rumah Makan Lamun Ombak",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "address": "Padang",
+        "image": "https://via.placeholder.com/350x150?text=www.dazelpro.com"
+    }
+]
