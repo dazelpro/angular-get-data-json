@@ -1,3 +1,7 @@
+# Tutorial
+
+https://dazelpro.com/article/menggunakan-data-json-pada-angular-cli
+
 # AngularJson
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
